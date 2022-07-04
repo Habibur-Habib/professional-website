@@ -8,7 +8,7 @@ h1{
 h2{
     font-size: 40px;
 }
-.name-highlight{
+.orange-highlight{
     color: coral;
 }
 p{
@@ -38,8 +38,23 @@ section{
     color: white;
     font-weight: 600;
 }
+.half-width1{
+    background-position: right;
+}
 .dream-area{
     background-repeat: no-repeat;
     background-image: url(images/dream-bg.png);
     background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url(/images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+
+
 }
